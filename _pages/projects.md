@@ -1,12 +1,12 @@
 ---
 layout: page
-title: projects
+title: Experience
 permalink: /projects/
-description: A growing collection of your cool projects.
-nav: false
-nav_order: 2
-display_categories: [work, fun]
-horizontal: false
+description: A description of my research projects
+nav: true
+nav_order: 1
+display_categories: [portofolio, etc]
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
